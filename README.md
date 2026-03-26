@@ -283,10 +283,6 @@ If you encounter CORS errors:
 - Timestamps are stored in UTC timezone.
 - Task descriptions support plain text; HTML/Markdown support can be added if needed.
 
-## Submission
-
-Once complete, submit the GitHub repository link to: **hr@abba.works**
-
 ---
 
 **Project Started**: March 26, 2026
